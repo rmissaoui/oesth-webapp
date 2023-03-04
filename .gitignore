@@ -1,0 +1,6 @@
+env/
+venv_oesth/
+data/
+test.py
+users.db
+__pycache__
